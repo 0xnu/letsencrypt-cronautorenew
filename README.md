@@ -29,7 +29,7 @@ sherlock.com
 
 execute `crontab -e` logged in as your letsencrypt-user and creates a CRON job.
 
-# CRON job example
+### CRON job example
 
 @daily /PathToLetsencrypt/letsencrypt/cronautorenew.sh
 
